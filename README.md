@@ -1,6 +1,6 @@
-# robofriends-hooks
+# react using-hooks
 
-Robofriends with Hooks!!
+Started from Robofriends with Hooks!!
 
 *visist https://zerotomastery.io/ for more*
 
